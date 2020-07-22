@@ -1,5 +1,4 @@
-# Project Title
-
+# Geeky Ishanvi
 Welcome to **Geeky Ishanvi** coding learning hub. This channel is for kids and adults who want to learn software programming & computer science fundamentals. Here you will learn programming in the simplest approach. I will cover programming techniques for 5 yr old kids to adult level. So do subscribe to my channel to see more programming topics on your feed. 
 
 **Happy programming !**
