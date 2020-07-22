@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+# Project Title
 
-You can use the [editor on GitHub](https://github.com/geeky-ishanvi/coding/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome to **Geeky Ishanvi** coding learning hub. This channel is for kids and adults who want to learn software programming & computer science fundamentals. Here you will learn programming in the simplest approach. I will cover programming techniques for 5 yr old kids to adult level. So do subscribe to my channel to see more programming topics on your feed. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Happy programming !**
 
-### Markdown
+## Getting Started
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+To learn coding concept refer YoutTube channel :-> https://www.youtube.com/channel/UCnUtNba4cWlZIXuU3ePcgOQ/videos
 
-```markdown
-Syntax highlighted code block
+To practice coding problems refer :-> https://geeky-ishanvi.github.io/coding/
 
-# Header 1
-## Header 2
-### Header 3
+### Prerequisites
 
-- Bulleted
-- List
+You just need computer or laptop with internet connection. 
 
-1. Numbered
-2. List
+### Installing
 
-**Bold** and _Italic_ and `Code` text
+Refer my website :-> https://geeky-ishanvi.github.io/coding/
 
-[Link](url) and ![Image](src)
-```
+## Contributing
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
-### Jekyll Themes
+## Versioning
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/geeky-ishanvi/coding/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
-### Support or Contact
+## Authors
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* **Ishanvi Singh Kushwaha** - *Initial work* - [geeky-ishanvi](https://github.com/geeky-ishanvi)
+
+## License
+
+This project is licensed under the GPL-3.0 License - see the [LICENSE](LICENSE) file for details
+
